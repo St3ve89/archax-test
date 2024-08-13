@@ -1,0 +1,20 @@
+.treeNodeContainer {
+  margin-left: 20px;
+}
+
+.treeNode {
+  padding: 5px;
+}
+
+.treeNode span {
+  cursor: pointer;
+}
+
+.treeNodeName {
+  margin-left: 8px;
+}
+
+.active .treeNodeName {
+  text-decoration: underline;
+  font-weight: bold;
+}

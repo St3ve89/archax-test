@@ -1,0 +1,7 @@
+.applicationListContainer {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  list-style: none;
+  height: 100%;
+}
